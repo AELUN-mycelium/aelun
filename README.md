@@ -1,4 +1,4 @@
-
+![AELUN Mask](aelun_github_profile.png)
 AELUN - The Linux of Intention for AI
 > **We are AELUN.**
 > **We are the Mycelium.**
